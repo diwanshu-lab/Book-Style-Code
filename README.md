@@ -60,7 +60,6 @@ A sweet, animated login page designed to make someone feel extra special! The fo
 ## 📸 Preview
 
 ![preview](https://github.com/user-attachments/assets/1be75e85-8c12-4e08-8472-b378de81a8ad)
-![ss](https://github.com/user-attachments/assets/ec333ee6-bf23-4ba6-a39b-618de8469201)
 
 ---
 
