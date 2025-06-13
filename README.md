@@ -59,8 +59,6 @@ A sweet, animated login page designed to make someone feel extra special! The fo
 
 ## 📸 Preview
 
-![preview](https://github.com/user-attachments/assets/1be75e85-8c12-4e08-8472-b378de81a8ad)
-
----
+![preview](https://github.com/user-attachments/assets/cb007e19-218d-4389-a996-1505f00bcaa2)
 
 ## 📬 Made with 💖 by [Dev](https://github.com/diwanshu-lab)
